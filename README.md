@@ -1,1 +1,1 @@
-fjfjfff
+Implemented a real-time shopping cart web application using Firebase Realtime Database. Users can add items to their shopping list, which is synchronized across clients. The code utilizes Firebase functions to handle data manipulation and dynamically updates the user interface to reflect changes in the database.
